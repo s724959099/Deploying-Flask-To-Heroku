@@ -109,6 +109,7 @@ app_run 就是你的 app_run.py，請依照自己設定的名稱自行修改
 #### runtime.txt
 
 runtime.txt 檔案裡，只需要簡單的填入你想要指定的 python 版本
+現在新版的只能3.6.1 and 2.7.13
 
 ```text
 python-3.4.3
